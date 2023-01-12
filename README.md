@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Chad Fenwick, currently enrolled at WGU studing Computer Programming
-- 👀 I’m interested in ... Programming, Cats and Lego
-- 🌱 I’m currently learning ... Python, C# and whatever else catches my fancy!
-- 📫 How to reach me ... email me @ chad@fenwick.dev
+
